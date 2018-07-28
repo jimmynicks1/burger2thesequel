@@ -8,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/my-burger-sequel.git"
   },
   "keywords": [
     "burgers",
@@ -16,12 +15,8 @@
     "burgerfi",
     "sequelize-da-burger"
   ],
-  "author": "Anna D Derbakova",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angrbrd/my-burger-sequel/issues"
   },
-  "homepage": "https://github.com/angrbrd/my-burger-sequelr#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2",
